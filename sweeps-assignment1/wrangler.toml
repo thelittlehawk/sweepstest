@@ -1,0 +1,6 @@
+name = "sweeps-assignment1"
+type = "webpack"
+account_id = "753c1b3c43300d375b3faca6d58e01d7"
+workers_dev = true
+route = ""
+zone_id = ""
